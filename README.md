@@ -26,13 +26,15 @@ To get started, clone this repository and take a look around. Familiarize yourse
 git clone https://github.com/your-username/your-coding-adventure.git
 cd your-coding-adventure
 
-**Run Your First Code 🏃‍♀**
+**Run Your First Code 🏃‍♀️**
 
 Execute your first lines of code and witness the magic happen. It might be a simple "Hello, World!" or a basic script. Celebrate the small victories—they lead to big accomplishments.
 
+```bash
 # Example for Java
 javac HelloWorld.java
 java HelloWorld
+
 
 ## Explore, Learn, Repeat 🔄
 
